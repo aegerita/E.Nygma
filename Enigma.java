@@ -1,5 +1,5 @@
 package enigma;
-
+// testing for githun in vscode
 import java.util.*;
 
 public class Enigma {                                    
@@ -31,7 +31,7 @@ public class Enigma {
     }
     
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+        //Scanner in = new Scanner(System.in);
         Enigma nygma = new Enigma();
         List<int[]> decoded = new ArrayList<>();
         
